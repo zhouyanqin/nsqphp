@@ -1,6 +1,6 @@
 {
-    "name": "davegardnerisme/nsqphp",
-    "description": "PHP client for NSQ",
+    "name": "zhouyanqin/nsqphp",
+    "description": "PHP client for NSQ, folked from davegardnerisme/nsqphp",
     "type": "library",
     "keywords": [
         "nsq"
